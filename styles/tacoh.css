@@ -2,9 +2,9 @@
 
 :root {
     --accent: #e9e8ea;
-    --accent-glow: rgba(222, 222, 222, 0.5);
-    --bg-dark: #08090a;
-    --glass: rgba(255, 255, 255, 0.03);
+    --accent-glow: rgba(191, 40, 40, 0.5);
+    --bg-dark: #064787;
+    --glass: rgba(13, 196, 147, 0.561);
     --glass-border: rgba(255, 255, 255, 0.1);
 }
 
