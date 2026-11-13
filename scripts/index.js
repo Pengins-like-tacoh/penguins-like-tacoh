@@ -1,3 +1,1 @@
-<script>
-    console.log("core.js");
-</script>
+console.log("core.js");
